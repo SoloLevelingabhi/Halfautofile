@@ -35,7 +35,7 @@ class Media(Document):
 
 async def save_file(media):
     """Save file in database"""
- try:
+      try:
         file = Media(
             file_id=file_id,
             file_ref=file_ref,
