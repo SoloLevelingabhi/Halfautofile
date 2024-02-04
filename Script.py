@@ -18,7 +18,7 @@ class script(object):
 </b>"""
 
     ABOUT_TXT = """<b>➣ ᴍʏ ɴᴀᴍᴇ ⋟</b>  {}
-<b>➢ ᴄʀᴇᴀᴛᴏʀ ⋟</b>  <a href= @Solo13searchBot>solo 𝘔𝘖𝘝𝘐𝘌 </a>
+<b>➢ ᴄʀᴇᴀᴛᴏʀ ⋟</b>  <a href= https://t.me/solomoviesboy>solo 𝘔𝘖𝘝𝘐𝘌 </a>
 <b>➣ ʟɪʙʀᴀʀʏ ⋟</b>  𝘱𝘺𝘳𝘰𝘨𝘳𝘢𝘮
 <b>➢ ʟᴀɴɢᴜᴀɢᴇ ⋟</b>  𝘱𝘺𝘵𝘩𝘰𝘯 3
 <b>➣ ᴅᴀᴛᴀʙᴀsᴇ ⋟</b>  𝘮𝘰𝘯𝘨𝘰 𝘥𝘣
