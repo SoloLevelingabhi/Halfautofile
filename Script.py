@@ -18,7 +18,7 @@ class script(object):
 </b>"""
 
     ABOUT_TXT = """<b>➣ ᴍʏ ɴᴀᴍᴇ ⋟</b>  {}
-<b>➢ ᴄʀᴇᴀᴛᴏʀ ⋟</b>  <a href=https://youtube.com/>𝘔𝘖𝘝𝘐𝘌 not yet created</a>
+<b>➢ ᴄʀᴇᴀᴛᴏʀ ⋟</b>  <a href= @Solo13searchBot>solo 𝘔𝘖𝘝𝘐𝘌 </a>
 <b>➣ ʟɪʙʀᴀʀʏ ⋟</b>  𝘱𝘺𝘳𝘰𝘨𝘳𝘢𝘮
 <b>➢ ʟᴀɴɢᴜᴀɢᴇ ⋟</b>  𝘱𝘺𝘵𝘩𝘰𝘯 3
 <b>➣ ᴅᴀᴛᴀʙᴀsᴇ ⋟</b>  𝘮𝘰𝘯𝘨𝘰 𝘥𝘣
@@ -129,17 +129,19 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 • /delallg - <code>Tᴏ ᴅᴇʟᴇᴛᴇ ᴀʟʟ Gғɪʟᴛᴇʀs ғʀᴏᴍ ᴛʜᴇ ʙᴏᴛ's ᴅᴀᴛᴀʙᴀsᴇ.</code>
 • /deletefiles - <code>Tᴏ ᴅᴇʟᴇᴛᴇ CᴀᴍRɪᴘ ᴀɴᴅ PʀᴇDVD Fɪʟᴇs ғʀᴏᴍ ᴛʜᴇ ʙᴏᴛ's ᴅᴀᴛᴀʙᴀsᴇ.</code>"""
 
-    STATUS_TXT = """<b>📂 ᴛᴏᴛᴀʟ ꜰɪʟᴇs: <code>{}</code>
+    STATUS_TXT = """<b>📂 ᴛᴏᴛᴀʟ ꜰɪʟᴇs in solo movie data base: <code>{}</code>
 👤 ᴛᴏᴛᴀʟ ᴜsᴇʀs: <code>{}</code>
 ♻️ ᴛᴏᴛᴀʟ ᴄʜᴀᴛs: <code>{}</code>
 🗃️ ᴜsᴇᴅ sᴛᴏʀᴀɢᴇ: <code>{}</code>
-🆓 ꜰʀᴇᴇ sᴛᴏʀᴀɢᴇ: <code>{}</code></b>"""
+🆓 ꜰʀᴇᴇ sᴛᴏʀᴀɢᴇ: <code>{}</code>
+</b>"""
 
     LOG_TEXT_G = """#𝐍𝐞𝐰𝐆𝐫𝐨𝐮𝐩
 
 <b>᚛› 𝐆𝐫𝐨𝐮𝐩 ⪼  {}(<code>{}</code>)</b>
 <b>᚛› 𝐓𝐨𝐭𝐚𝐥 𝐌𝐞𝐦𝐛𝐞𝐫𝐬 ⪼  <code>{}</code></b>
 <b>᚛› 𝐀𝐝𝐝𝐞𝐝 𝐁𝐲 ⪼  {}</b>
+for updates join @Solo13searchBot
 """
 
     LOG_TEXT_P = """#𝐍𝐞𝐰𝐔𝐬𝐞𝐫
@@ -149,12 +151,12 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 """
 
     ALRT_TXT = """{},
-ᴄʜᴇᴄᴋ  ʏᴏᴜʀ  ᴏᴡɴ  ʀᴇǫᴜᴇ𝗌ᴛ   😤
+ᴄʜᴇᴄᴋ  ʏᴏᴜʀ  ᴏᴡɴ  ʀᴇǫᴜᴇ𝗌ᴛ   😜
 """
 
     OLD_ALRT_TXT ="""{},
 
-ʏᴏᴜ ᴀʀᴇ ᴜꜱɪɴɢ ᴍʏ ᴏʟᴅ ᴍᴇꜱꜱᴀɢᴇ,
+ʏᴏᴜ ᴀʀᴇ ᴜꜱɪɴɢ ᴍʏ ᴏʟᴅ ᴍᴇꜱꜱᴀɢᴇ,😱
 
 ꜱᴇɴᴅ ᴛʜᴇ ʀᴇǫᴜᴇ𝗌ᴛ ᴀɢᴀɪɴ 😊
 """
@@ -180,7 +182,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 
 𝟹) ɴᴏᴛ ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ᴅᴀᴛᴀʙᴀꜱᴇ
 
-<b><a href=https://telegram.me/NobiDeveloperr>~ ʀᴇǫᴜᴇ𝗌ᴛ ᴛᴏ ᴏᴡɴᴇʀ</a></b>
+<b><a href=https://telegram.me/Solo13searchBot>~ ʀᴇǫᴜᴇ𝗌ᴛ ᴛᴏ ᴏᴡɴᴇʀ</a></b>
 """
 
     TOP_ALRT_MSG = """ꜱᴇᴀʀᴄʜɪɴɢ  ɪɴ  ᴅᴀᴛᴀʙᴀꜱᴇ..."""
@@ -196,7 +198,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 🧨 ᴊᴜsᴛ ᴛʏᴘᴇ ᴛʜᴇ ᴍᴏᴠɪᴇ ɴᴀᴍᴇ
 
 🤖 ʙᴏᴛ ᴡɪʟʟ sᴇɴᴅ ʏᴏᴜʀ ᴍᴏᴠɪᴇ
-
+join @Solo13searchBot
 ☎️ ʀᴇᴀᴅ ɢʀᴏᴜᴘ ʀᴜʟᴇs ᴛᴏ ᴋɴᴏᴡ ᴍᴏʀᴇ...</b>"""
 
     SHORTLINK_INFO = """
@@ -204,7 +206,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 
 ➥ ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴇᴀʀɴ ʟᴏᴛs ᴏꜰ ᴍᴏɴᴇʏ ꜰʀᴏᴍ ᴛʜɪꜱ ʙᴏᴛ.
 
-›› sᴛᴇᴘ 𝟷 : ʏᴏᴜ ᴍᴜsᴛ ʜᴀᴠᴇ ᴀᴛʟᴇᴀsᴛ ᴏɴᴇ ɢʀᴏᴜᴘ ᴡɪᴛʜ ᴍɪɴɪᴍᴜᴍ 𝟹𝟶𝟶 ᴍᴇᴍʙᴇʀs.
+›› sᴛᴇᴘ 𝟷 : ʏᴏᴜ ᴍᴜsᴛ ʜᴀᴠᴇ ᴀᴛʟᴇᴀsᴛ ᴏɴᴇ ɢʀᴏᴜᴘ ᴡɪᴛʜ ᴍɪɴɪᴍᴜᴍ 1𝟶𝟶 ᴍᴇᴍʙᴇʀs.
 
 ›› sᴛᴇᴘ 𝟸 : ᴍᴀᴋᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ <a href='https://www.google.com'>ᴛɴʟɪɴᴋ</a> ᴏʀ <a href='https://www.google.com'>use any short url </a>. [ ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴜsᴇ ᴏᴛʜᴇʀ sʜᴏʀᴛɴᴇʀ ᴡᴇʙsɪᴛᴇ ]
 
@@ -253,7 +255,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 🎬 ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ​ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://www.google.com)
 •────•────────•────•
 
-©️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : [ᴍᴏᴠɪᴇ ᴠɪʟʟᴀ](https://youtube.com/)</b>"""
+©️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : [solo ᴍᴏᴠɪᴇ](https://youtube.com/)</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>{title}</b>
