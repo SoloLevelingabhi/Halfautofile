@@ -19,10 +19,10 @@ class script(object):
 
     ABOUT_TXT = """<b>➣ ᴍʏ ɴᴀᴍᴇ ⋟</b>  {}
 <b>➢ ᴄʀᴇᴀᴛᴏʀ ⋟</b>  <a href= https://t.me/solomoviesboy>solo 𝘔𝘖𝘝𝘐𝘌 </a>
-<b>➣ ʟɪʙʀᴀʀʏ ⋟</b>  𝘱𝘺𝘳𝘰𝘨𝘳𝘢𝘮
-<b>➢ ʟᴀɴɢᴜᴀɢᴇ ⋟</b>  𝘱𝘺𝘵𝘩𝘰𝘯 3
+<b>➣ ʟɪʙʀᴀʀʏ ⋟</b>  Node.js
+<b>➢ ʟᴀɴɢᴜᴀɢᴇ ⋟</b>  java script
 <b>➣ ᴅᴀᴛᴀʙᴀsᴇ ⋟</b>  𝘮𝘰𝘯𝘨𝘰 𝘥𝘣
-<b>➢ ʙᴏᴛ sᴇʀᴠᴇʀ ⋟</b>  𝘩𝘦𝘳𝘰𝘬𝘶
+<b>➢ ʙᴏᴛ sᴇʀᴠᴇʀ ⋟</b>  render
 <b>➣ ʙᴜɪʟᴅ sᴛᴀᴛs ⋟</b>  𝘷2.0.1 ﹝ʙᴇᴛᴀ﹞"""
 
     SOURCE_TXT = """
