@@ -22,10 +22,10 @@ BOT_TOKEN = environ.get('BOT_TOKEN')
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
-PICS = (environ.get('PICS', 'https://telegra.ph/file/61ef9818986cef9554017.jpg https://telegra.ph/file/4696ff67a5bae3ea92c14.jpg')).split()
-NOR_IMG = environ.get("NOR_IMG", "https://telegra.ph/file/61ef9818986cef9554017.jpg")
-MELCOW_VID = environ.get("MELCOW_VID", "https://telegra.ph/file/61ef9818986cef9554017.jpg")
-SPELL_IMG = environ.get("SPELL_IMG", "https://telegra.ph/file/61ef9818986cef9554017.jpg")
+PICS = (environ.get('PICS', 'https://telegra.ph/file/56ebbbea2de8011929e97.jpg https://telegra.ph/file/1dc00c2282d88ce723e2d.jpg')).split()
+NOR_IMG = environ.get("NOR_IMG", "https://telegra.ph/file/1dc00c2282d88ce723e2d.jpg")
+MELCOW_VID = environ.get("MELCOW_VID", "https://telegra.ph/file/1dc00c2282d88ce723e2d.jpg")
+SPELL_IMG = environ.get("SPELL_IMG", "https://telegra.ph/file/1dc00c2282d88ce723e2d.jpg")
 
 # Admins, Channels & Users
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '').split()]
@@ -64,11 +64,11 @@ DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in enviro
 MAX_B_TN = environ.get("MAX_B_TN", "8")
 MAX_BTN = is_enabled((environ.get('MAX_BTN', "True")), True)
 PORT = environ.get("PORT", "8080")
-GRP_LNK = environ.get('GRP_LNK', 'https://telegram.me/NobiDeveloperSupport')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://telegram.me/NobiDeveloper')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/solomoviesboy')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/solomoviesboy')
 MSG_ALRT = environ.get('MSG_ALRT', 'ꜱʜᴀʀᴇ  ᴀɴᴅ  ꜱᴜᴘᴘᴏʀᴛ  ᴜꜱ')
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', ''))
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'NobiDeveloperSupport')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', '@Solo13searchBot')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "True")), True)
 IMDB = is_enabled((environ.get('IMDB', "False")), False)
 AUTO_FFILTER = is_enabled((environ.get('AUTO_FFILTER', "True")), True)
@@ -87,7 +87,7 @@ PROTECT_CONTENT = is_enabled((environ.get('PROTECT_CONTENT', "False")), False)
 PUBLIC_FILE_STORE = is_enabled((environ.get('PUBLIC_FILE_STORE', "True")), True)
 
 LANGUAGES = ["hindi", "hin", "tamil", "tam", "telugu", "tel", "english", "eng", "kannada", "kan", "malayalam", "mal"]
-TUTORIAL = environ.get('TUTORIAL', 'https://youtu.be/0c-i2Lol6LU')
+TUTORIAL = environ.get('TUTORIAL', 'https://youtu.be/')
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
 
 LOG_STR = "Current Cusomized Configurations are:-\n"
